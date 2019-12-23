@@ -7,3 +7,4 @@ fuck..
 fuck...
 today is beautiful!
 chen xuan is good!
+ce shi git diff --cached 
