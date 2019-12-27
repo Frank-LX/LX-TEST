@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 chen xuan deggggg!
 chen xuan hui laiqu le ggggggggggg!
+=======
+chen xuan def!
+chen xuan hui laiqu le lalala!
+>>>>>>> 3ae343464fc311d1272af418d58aa83b1c1541b8
